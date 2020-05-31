@@ -1,5 +1,3 @@
-# IBM Data-Science Professional Certificate
-
 # IBM: Data Science Professional Certification
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
@@ -7,7 +5,7 @@
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Joseph Santarcangelo
 
-## This repository contains all my  Projects and the notebooks from the Course 
+## This repository contains all my  Projects and the notebooks from the Certification
 
 ### The courses enlisted in this Certification are as follows:
 
@@ -25,6 +23,6 @@
 
 - [x] __Data Visualization with Python__
 
-- [ ] __Machine Learning with Python__
+- [x] __Machine Learning with Python__
 
-- [ ] __Applied Data Science Capstone__
+- [x] __Applied Data Science Capstone__
