@@ -1,2 +1,2 @@
 # IBM-Data-Science-Professional-Certificate
-Peer graded Assignment Notebooks
+-My Python Notebooks from the Course 
